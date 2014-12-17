@@ -5,16 +5,16 @@
 
 // Servidor
 // Servidor
-$server = "186.202.152.41";
+$server = "186.202.152.30";
 
 // Senha
 $senha = "zdc141806";
 
 // Usuário
-$user = "aikid_site";
+$user = "publixcomunica6";
 
 // Banco de dados
-$db = "aikidobh_site";
+$db = "publixcomunica6";
 
 // Conexão com o bando
 $conn = mysql_connect($server,$user,$senha) or die("Erro connection: " . mysql_error());

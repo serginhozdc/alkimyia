@@ -1,0 +1,156 @@
+body {
+	margin: 0 0 0 0;
+}
+
+/* - GLOBAL - Emgloba todas as DIVS do Sistema - */
+#global {
+	width: 100%;
+	height: auto;
+}
+
+#linha_form_auto {
+	width: 95%;
+	height: auto;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+
+/* - TOPO - Div Superior onde fica a logomarca - */
+#topo {
+	width: 100%;
+	height: auto;
+	background-image: url(../images/topo_repete.gif);
+}
+
+/* - MENU - Div Para o estilo do menu - */
+#menu {
+	width: 100%;
+	height: 27px;
+	background-color: #FFFFFF;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #a6a6a6;
+	background-image: url(../images/repete_menu.gif);		
+}
+
+.img_top_cms {
+	margin: 5px;
+}
+
+#info {
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	width: 95%;
+	height: 32px;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: black;
+	font-family: Tahoma;
+	font-size: 22px;
+	color: #3C258A;
+}
+
+#global {
+	width: 100%;
+	height: auto;
+}
+
+#principal {
+	width: 98,5%;
+	border: 10px solid #DFDFDF;
+	height: auto;
+}
+
+/* - caixa_form - Div que ira englobar todo o formulario - */
+#caixa_form {
+	width: 95%;
+	height: auto;
+	margin: 0 auto;
+	border: 1px dotted #727272;
+}
+
+#linha_form {
+	width: 95%;
+	height: 35px;
+	margin: 0 auto;
+	padding-top: 10px;
+	text-align: left;
+}
+
+/* - label - Label do form - */
+#label {
+	float: left;
+	clear: right;
+	width: 15%;
+}
+
+/* - label_fonte - Fonte do Label do form - */
+.label_fonte {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #727272;
+}
+
+/* - form_style - Estilo de formulario - */
+.form_style {
+	border: 1px solid #a6a6a6;
+	background-color: #FFFFFF;
+	color: #626262;
+}
+
+/* - info_fim - Div Com uma barra de informacoes do fim da pagina - */
+#info_fim {
+	margin: 0 auto;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	width: 95%;
+	height: 32px;
+	border-top-width: 1px;
+	border-top-style: dotted;
+	border-top-color: #000000;
+}
+
+/* - cel_fonte - Fonte para as celulas das tabelas - */
+.cel_fonte {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #727272;
+	background-color:#FFFFFF;
+}
+
+/* - cel_fonte_hover - Fonte para as celulas das tabelas quando passa o mouse em cima- */
+.cel_fonte_hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #727272;
+	background-color:#ffffdd;
+}
+
+/* Sortable tables */
+table.sortable thead {
+	background-color:#eee;
+	color:#666666;
+	font-weight: bold;
+	cursor: default;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.sortable td {border:1px dotted #727272;}
+
+table.sortable2 thead {
+	background-color:#eee;
+	color:#666666;
+	font-weight: bold;
+	cursor: default;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+#caixa_table {
+	width: 95%;
+	height: auto;
+	margin: 0 auto;
+}
+

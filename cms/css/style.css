@@ -1,0 +1,127 @@
+body {
+	margin: 0 0 0 0;
+	background-image: url(../images/bg.gif);
+}
+
+#global {
+	background-image: url(../images/funcro_centro.jpg);
+	background-position: top center;
+	background-repeat: no-repeat;
+	width: 1000px;
+	height: 800px;
+	margin: 0 auto;
+	margin:-400px 0 0 -500px; 
+	position:absolute; 
+	top:50%; 
+	left:50%;
+	overflow: hidden;
+}
+
+#linha_form_auto {
+	width: 95%;
+	height: auto;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+
+.logo_empresa {
+	width: 129px;
+	height: 128px;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+
+.box_login {
+	width: 353px;
+	height: 246px;
+	background-image: url(../images/fundo_login.png);
+	background-position: top center;
+	margin: 0 auto;
+	margin-top: 58px;
+	overflow: hidden;
+} 
+
+.autor {
+	width: 233px;
+	height: 25px;
+	margin: 0 auto;
+	margin-top: 168px;
+	overflow: hidden;
+}
+
+.div_usuario {
+	margin: 0 auto;
+	border: 0px solid #000000;
+	overflow: hidden;
+	width: 300px;
+	height: 43px;
+	margin-top: 64px;
+}
+
+.campo_login {
+	width: 185px;
+	margin-left: 76px;
+	margin-top: 6px;
+	height: 30px;
+	color: #333333;
+	background: none;
+	border: none;
+}
+
+.campo_senha {
+	width: 185px;
+	margin-left: 76px;
+	margin-top: 6px;
+	height: 30px;
+	color: #333333;
+	background: none;
+	border: none;
+}
+
+.div_senha {
+	margin: 0 auto;
+	border: 0px solid #000000;
+	overflow: hidden;
+	width: 300px;
+	height: 43px;
+	margin-top: 20px;	
+}
+
+.div_bt {
+	margin: 0 auto;
+	border: 0px solid #000000;
+	overflow: hidden;
+	width: 300px;
+	height: 43px;
+	margin-top: 12px;	
+}
+
+.bt_enviar {
+	float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
